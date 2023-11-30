@@ -18,7 +18,7 @@ As the federation is not a blockchain, it is not limited in what can be run on i
 
 One can think of Fedimint as "trusted smart contracting". You replace mining with trust in a federation.
 
-## Can stablecoins be used on fedmints?
+## Can stablecoins be used on fedimints?
 
 In theory, stablecoins on Fedimint would be possible.  Liquid Tether (L-BTC) or potentially (once mature) Lightning Lab’s Taro would be examples of systems that could be implemented.  If included, FeDeFi functionality such as P2P exchange could be used to enable the exchange between Bitcoin and stablecoins within the federation while intra exchange arbitrage over lightning could further enhance this capability.
 
